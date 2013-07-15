@@ -1,0 +1,23 @@
+{
+  "name": "express-api-router",
+  "version": "0.1.0",
+  "description": "API router for express",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "1.12.x",
+    "should": "1.2.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JakubMrozek/express-api-router.git"
+  },
+  "author": "Jakub Mrozek <jakub.mrozek@gmail.com>",
+  "main": "index",
+  "engines": {
+    "node": ">= 0.8.x",
+    "npm": "1.x"
+  }
+}
